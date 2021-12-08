@@ -1,0 +1,32 @@
+.headerContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.sub-container1, .sub-container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.sub-container1 h1 {    
+    font-size: 1,7rem;    
+    font-weight: 400;
+}
+
+.sub-container2 li {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 12px;
+    font-family: 'Indie Flower', cursive;    
+}
+
+.sub-container2 a { text-decoration: none; }
+
+.sub-container1 h1, .sub-container2 a, .sub-container2 svg {    
+    color: #50250c;
+    font-family: 'Indie Flower', sans-serif;
+
+}
