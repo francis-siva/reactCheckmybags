@@ -23,7 +23,10 @@
     font-family: 'Indie Flower', cursive;    
 }
 
-.sub-container2 a { text-decoration: none; }
+.sub-container2 a {
+    text-decoration: none;
+    font-size: 24px
+}
 
 .sub-container1 h1, .sub-container2 a, .sub-container2 svg {    
     color: #50250c;

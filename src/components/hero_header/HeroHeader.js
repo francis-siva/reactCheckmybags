@@ -1,5 +1,5 @@
 import React from 'react';
-import heroImg from './../../assets/bags-show.jpg';
+// import heroImg from './../../assets/bags-show.jpg';
 
 import './HeroHeader.css';
 
